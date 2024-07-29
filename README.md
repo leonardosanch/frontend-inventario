@@ -1,3 +1,37 @@
+
+
+### README.md para el repositorio del frontend
+
+# Frontend Inventario
+
+Este proyecto contiene el frontend para la gestión de inventarios utilizando React.
+
+## Requisitos previos
+
+- Docker
+- Docker Compose
+
+## Instrucciones
+
+### 1. Clonar el repositorio
+
+```bash
+git clone https://github.com/tu-usuario/frontend-inventario.git
+cd frontend-inventario
+
+
+
+2. Construir y ejecutar los contenedores
+
+docker-compose build
+docker-compose up -d
+
+3. Verificar que el frontend está funcionando
+
+
+Abre tu navegador y navega a http://localhost:3000 para verificar que el frontend está funcionando correctamente.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
